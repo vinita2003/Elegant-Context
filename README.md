@@ -2,8 +2,10 @@
 
 
 
-
+# Home Page
 []<img src = "https://raw.githubusercontent.com/vinita2003/Elegant-Context/master/Elegant%20Context.png" length = "330" width = "440">
+
+# Your Cart
 []<img src = "https://raw.githubusercontent.com/vinita2003/Elegant-Context/master/your%20Cart.png" length = "330" width = "440">
 
 # Techs
